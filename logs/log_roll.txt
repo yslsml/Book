@@ -1,0 +1,310 @@
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - Array of books:
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 1, 
+title : War and piece, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 1999, 
+number of pages : 1014, 
+price : 56.23, 
+binding : soft
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 2, 
+title : Anna Karenina, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 2002, 
+number of pages : 989, 
+price : 48.0, 
+binding : soft
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 3, 
+title : Harry Potter, 
+author : J.K. Rowling, 
+publishing house : London, 
+year of publication : 2016, 
+number of pages : 986, 
+price : 46.83, 
+binding : hard
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 4, 
+title : Sherlock Holmes, 
+author : A.C. Doyle, 
+publishing house : London, 
+year of publication : 1780, 
+number of pages : 564, 
+price : 22.99, 
+binding : hard
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 5, 
+title : Skazki, 
+author : Korney Chukovski, 
+publishing house : Misk 2000, 
+year of publication : 2006, 
+number of pages : 320, 
+price : 15.54, 
+binding : soft
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - Array of books which author is Lev Tolstoi
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 1, 
+title : War and piece, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 1999, 
+number of pages : 1014, 
+price : 56.23, 
+binding : soft
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 2, 
+title : Anna Karenina, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 2002, 
+number of pages : 989, 
+price : 48.0, 
+binding : soft
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - Array of books of publishing house London
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 3, 
+title : Harry Potter, 
+author : J.K. Rowling, 
+publishing house : London, 
+year of publication : 2016, 
+number of pages : 986, 
+price : 46.83, 
+binding : hard
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 4, 
+title : Sherlock Holmes, 
+author : A.C. Doyle, 
+publishing house : London, 
+year of publication : 1780, 
+number of pages : 564, 
+price : 22.99, 
+binding : hard
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - Array of books which were published after 2000
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 2, 
+title : Anna Karenina, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 2002, 
+number of pages : 989, 
+price : 48.0, 
+binding : soft
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 3, 
+title : Harry Potter, 
+author : J.K. Rowling, 
+publishing house : London, 
+year of publication : 2016, 
+number of pages : 986, 
+price : 46.83, 
+binding : hard
+}
+2022-03-04 11:40:40 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 5, 
+title : Skazki, 
+author : Korney Chukovski, 
+publishing house : Misk 2000, 
+year of publication : 2006, 
+number of pages : 320, 
+price : 15.54, 
+binding : soft
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - Array of books:
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 1, 
+title : War and piece, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 1999, 
+number of pages : 1014, 
+price : 56.23, 
+binding : soft
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 2, 
+title : Anna Karenina, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 2002, 
+number of pages : 989, 
+price : 48.0, 
+binding : soft
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 3, 
+title : Harry Potter, 
+author : J.K. Rowling, 
+publishing house : London, 
+year of publication : 2016, 
+number of pages : 986, 
+price : 46.83, 
+binding : hard
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 4, 
+title : Sherlock Holmes, 
+author : A.C. Doyle, 
+publishing house : London, 
+year of publication : 1780, 
+number of pages : 564, 
+price : 22.99, 
+binding : hard
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 5, 
+title : Skazki, 
+author : Korney Chukovski, 
+publishing house : Misk 2000, 
+year of publication : 2006, 
+number of pages : 320, 
+price : 15.54, 
+binding : soft
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - Array of books which author is Lev Tolstoi
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 1, 
+title : War and piece, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 1999, 
+number of pages : 1014, 
+price : 56.23, 
+binding : soft
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 2, 
+title : Anna Karenina, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 2002, 
+number of pages : 989, 
+price : 48.0, 
+binding : soft
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - Array of books of publishing house London
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 3, 
+title : Harry Potter, 
+author : J.K. Rowling, 
+publishing house : London, 
+year of publication : 2016, 
+number of pages : 986, 
+price : 46.83, 
+binding : hard
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 4, 
+title : Sherlock Holmes, 
+author : A.C. Doyle, 
+publishing house : London, 
+year of publication : 1780, 
+number of pages : 564, 
+price : 22.99, 
+binding : hard
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - Array of books which were published after 2000
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 2, 
+title : Anna Karenina, 
+author : Lev Tolstoi, 
+publishing house : Misk 2000, 
+year of publication : 2002, 
+number of pages : 989, 
+price : 48.0, 
+binding : soft
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 3, 
+title : Harry Potter, 
+author : J.K. Rowling, 
+publishing house : London, 
+year of publication : 2016, 
+number of pages : 986, 
+price : 46.83, 
+binding : hard
+}
+2022-03-04 12:16:12 [main] INFO 
+            book.run.Main - 
+Book {
+bookId : 5, 
+title : Skazki, 
+author : Korney Chukovski, 
+publishing house : Misk 2000, 
+year of publication : 2006, 
+number of pages : 320, 
+price : 15.54, 
+binding : soft
+}
+2022-03-04 16:36:55 [main] ERROR
+            book.run.Main - Bad read book exception!!!
+2022-03-04 16:39:09 [main] ERROR
+            book.run.Main - Bad values of book exception!!!
+2022-03-04 16:40:08 [main] ERROR
+            book.run.Main - Bad read book exception!!!
